@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1624706185 source:i:\acmicpc\cpp实验8\ati2tobc5.cpp
+	"bmp_loader.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+
+1624698356 i:\acmicpc\cpp实验8\bmp_loader.h
+	<iostream>
+	<string>
+	<cstring>
+	<cstdio>
+	<fstream>
+	<cmath>
+
